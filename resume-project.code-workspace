@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "resume-project",
+			"path": ".."
+		},
+		{
+			"name": "goit-markup-hw-01",
+			"path": "../../goit-markup-hw-01"
+		},
+		{
+			"name": "clean-folder",
+			"path": "C:/Users/SOS/PycharmProjects/HomeWork6/clean-folder"
+		},
+		{
+			"name": "HW7",
+			"path": "G:/HW7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "goit-markup-hw-01"
+	}
+}
